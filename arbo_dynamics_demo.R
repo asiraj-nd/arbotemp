@@ -23,6 +23,6 @@ formalR0(32,1.35)  # custom default virus (DENV)
 formalR0(32,1.35,2,,)  # custom virus (CHIKV)
 
 # epidemic growth
-system.time(solve.r(25,0.35)) # using the default r range = [-0.15, 0.15]
-solve.r(32,1.35,,-0.15,.25)  # custom range
+system.time(solve.r(25,0.35)) # at 25 oC and lambda=0.35, using the default r range = [-0.15, 0.15]
+solve.r(32,1.35,,-0.15,.25)  # 32 oC and lambda = 1.35, using custom range = [-0.15, 0.25]
 
