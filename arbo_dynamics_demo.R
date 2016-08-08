@@ -7,7 +7,7 @@ load("./epidemicGrowth.Rdata")
 
 # Syntax
 
-#     gt.function(temperature)(time) where (temperature in oC)  time is a vector (time_0: time_n)    
+#     gt.function(temperature)(time) where (temperature in oC)  time is a vector (time initial:final in days)    
 
 #     formalR0(temperature,lambda)  where (temperature in oC, lambda is the daily number of new adults mosquitoes per person)
 
