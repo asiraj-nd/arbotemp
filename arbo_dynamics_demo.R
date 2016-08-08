@@ -1,4 +1,4 @@
-#### generate and r as a function of temperature
+#### generation interval and r as functions of temperature
 if(!require(pracma)){install.packages('pracma')}
 library(pracma)
 setwd("~")
