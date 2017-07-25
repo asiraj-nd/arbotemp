@@ -54,8 +54,8 @@ Following are the functions included in the package. A demonstration .R file (`a
 
 ### REFERENCES
 
-Brady OJ, Johansson, MA, Guerra CA, Bhatt S, Golding N, Pigott DM, et al. Modelling adult Aedes aegypti and Aedes albopictus survival at different temperatures in laboratory and field settings. Parasites & Vectors 2013; 6:1-12.
-Chan M, Johansson MA. The incubation periods of dengue viruses. PLoS ONE 2012; 7:e50972.
-Focks DA, Haile DG, Daniels E, Mount GA. Dynamic Life Table Model for Aedes aegypti (Dprera: Culicidae): Analysis of the Literature and Model Development. Journal of Medical Entomology 1993; 30:1003-17.
-Nishiura H, Halstead SB. Natural History of Dengue Virus (DENV)–1 and DENV-4 Infections: Reanalysis of Classic Studies. The Journal of Infectious Diseases 2007; 195:1007–13.
-Otero M, Solari HG, Schweigmann N. A Stochastic Population Dynamics Model for Aedes Aegypti: Formulation and Application to a City with Temperate Climate. Bulletin of Mathematical Biology 2006; 68:1945-74.
+* Brady OJ, Johansson, MA, Guerra CA, Bhatt S, Golding N, Pigott DM, et al. Modelling adult Aedes aegypti and Aedes albopictus survival at different temperatures in laboratory and field settings. Parasites & Vectors 2013; 6:1-12.
+* Chan M, Johansson MA. The incubation periods of dengue viruses. PLoS ONE 2012; 7:e50972.
+* Focks DA, Haile DG, Daniels E, Mount GA. Dynamic Life Table Model for Aedes aegypti (Dprera: Culicidae): Analysis of the Literature and Model Development. Journal of Medical Entomology 1993; 30:1003-17.
+* Nishiura H, Halstead SB. Natural History of Dengue Virus (DENV)–1 and DENV-4 Infections: Reanalysis of Classic Studies. The Journal of Infectious Diseases 2007; 195:1007–13.
+* Otero M, Solari HG, Schweigmann N. A Stochastic Population Dynamics Model for Aedes Aegypti: Formulation and Application to a City with Temperate Climate. Bulletin of Mathematical Biology 2006; 68:1945-74.
