@@ -9,7 +9,7 @@ Temperature driven dynamics of Arboviral diseases, Version 1
 * `FUNCTIONS`
 * `REFERENCES`
 
-### DESCRIPTION:
+### DESCRIPTION
 
 This RData file contains data and functions used in the published work: 
 
