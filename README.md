@@ -1,7 +1,7 @@
 Temperature driven dynamics of Arboviral diseases, Version 1
 ============================================================
 
-### Contents:
+### Content:
 
 * `DESCRIPTION` 
 * `CITATION`
